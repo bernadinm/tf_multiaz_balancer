@@ -20,7 +20,7 @@ ____    ____    ____
 -----   -----   -----     
         
 
-var custom_zone_remove (b) yeilds
+var exclude_list_of_zones (b) yeilds
 
 
   A      B       C
@@ -31,7 +31,7 @@ ____    ____    ____
 | x |   |   |   |   |     
 -----   -----   -----     
 
-var custom_zone_remove (null) yeilds
+var exclude_list_of_zones (null) yeilds
         
   A      B       C
 ____    ____    ____     
@@ -42,7 +42,7 @@ ____    ____    ____
 -----   -----   -----     
         
 
-var custom_zone_remove (b,c)
+var exclude_list_of_zones (b,c)
 
 
   A      B       C
